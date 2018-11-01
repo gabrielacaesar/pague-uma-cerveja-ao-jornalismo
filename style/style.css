@@ -1,0 +1,110 @@
+* {
+	margin: 0 auto;
+	text-decoration: none;
+}
+
+.container {
+	width: 100%;
+	padding-right: 0px;
+	padding-left: 0px;
+	margin: 0;
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+h1 {
+	color: transparent;
+	font-size: 0px;
+}
+
+a {
+	color: white;
+	cursor: pointer;
+}
+
+a:hover {
+	background: black;
+	color: white;
+	text-decoration: none;
+}
+
+.abertura {
+	text-align: center;
+	background-image: url('../img/bier4.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: #4A1B17;
+	padding-top: 20px;
+	height: 730vh;
+	width: 100%;
+	font-family: 'Amatic SC', cursive;
+	font-size: 120px;
+	font-weight: 600;
+}
+
+
+.bg-orange {
+	background: orange;
+	padding: 0px 15px;
+}
+
+.bg-red {
+	background: red;
+	padding: 0px 15px;
+}
+
+.bg-white {
+	color: white;
+}
+
+.propose {
+	margin-top: 35px;
+	font-size: 60px;
+}
+
+.first-child {
+	margin-top: 150px;
+}
+
+.propose.nth-2 {
+	margin-top: 70px;
+}
+
+.propose.nth-3 {
+	margin-top: 90px;
+}
+
+.last-child {
+	padding-bottom: 150px;
+}
+
+.font-35 {
+	font-size: 35px;
+}
+
+.logo img {
+	width: 200px;
+}
+
+.logo-sm img {
+	width: 140px;
+}
+
+.chopp img{
+	width: 70px;
+}
+
+.doacao {
+	font-size: 30px;
+	margin-top: -40px;
+}
+
+
+
+
+
+
